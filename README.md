@@ -9,22 +9,22 @@
 <img align="right" src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/Developer.gif"/>
 
 - **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
+  - HTML, CSS and Javascript :white_check_mark:
+  - Bootstrap
   - Tailwind
-	- React with Redux :electron:
-	- MonogoDB
+  - React with Redux :electron:
+  - MonogoDB
   - Express
   - Socket.io
   - NodeJS
   - Cloudinary
  
-<br/><br/>
+<br/>
 
 ## 🌱 I’m currently learning ...
 - **AI**
 - **LLM**
-<br/>
+  <br/>
   <br/>
 
 
@@ -44,7 +44,8 @@
   <img align="center" alt="Harsh's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://harsh-portfolio-kappa.vercel.app/" target="blank">
-  <img align="center" alt="Harsh's Portfolio" width="30px" src="https://www.vectorlogo.zone/logos/hexoio/hexoio-ar21.svg" />
+  <img align="center" alt="Harsh's Portfolio" width="30px" src="https://github.com/uiwjs/file-icons/blob/master/icon/hcl.svg" />
+<!--   <img align="center" alt="Harsh's Portfolio" width="30px" src="https://github.com/coreui/coreui-icons/blob/v2/svg/brand/cib-habr.svg" /> -->
  </a> 
   <br/>
   <br/>
