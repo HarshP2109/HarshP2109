@@ -1,12 +1,12 @@
-### <img src="https://github.com/HarshP2109/HarshP2109/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/HarshP2109/HarshP2109/blob/master/Assets/Earth.gif" width="24px">
-<em>I am a 4th Year undergraduate student from Mumbai University. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/HarshP2109/HarshP2109/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/HarshP2109/HarshP2109/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+### <img src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/Earth.gif" width="24px">
+<em>I am a 4th Year undergraduate student from Mumbai University. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- C++ ❤️
   - Python 
 
-<img align="right" src="https://github.com/HarshP2109/HarshP2109/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/Developer.gif"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
@@ -34,7 +34,7 @@
 </p>  
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/HarshP2109/HarshP2109/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/HarshP2109/HarshP2109/blob/main/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/harshpimpale/" target="blank">
